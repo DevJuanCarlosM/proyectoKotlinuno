@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Ciberflix_1</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="pelicula">Pelicula</string>
+    <string name="serie">Series</string>
+    <string name="cerrar">Cerrar</string>
+
+
+    /*Login*/
+    <string name="inicio_session">Iniciar Sesion</string>
+    <string name="regLogin">Registrar</string>
+    <string name="UsuarLogin">Usuario</string>
+    <string name="ContLogin">Contraseña</string>
+    <string name="RegístrateLogin">Regístrate</string>
+    <string name="ctaLogin">¿Todavia no tiene cuenta?</string>
+
+
+    //Obeservacion boton
+    <string name="regU">Registrar U</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="genero">Genero</string>
+    <string-array name="generos">
+        <item>Todos</item>
+        <item>Accion</item>
+        <item>Comedia</item>
+        <item>Suspenso</item>
+        <item>Animacion</item>
+    </string-array>
+
+
+    //Registro
+    <string name="regUsu">Registro Usuario</string>
+
+    <string name="nomb">Nombres</string>
+    <string name="ape">Apellidos</string>
+
+    <string name="pais">Pais</string>
+    <string-array name="pais">
+
+        <item>Argentina</item>
+        <item>Colombia</item>
+        <item>Perú</item>
+        <item>Uruguay</item>
+    </string-array>
+
+    <string name="cor">Correo</string>
+    <string name="cont">Contraseña</string>
+    <string name="confCont">Confirmar Contraseña</string>
+
+
+    <string name="gen">Género</string>
+
+    <string name="masc">Masculino</string>
+    <string name="fem">Femenino</string>
+
+
+    <string name="regbtn">Registrar</string>
+    <string name="title_activity_series">SeriesActivity</string>
+
+    <string-array name="temporadas">
+        <item>Temporada 1</item>
+        <item>Temporada 2</item>
+        <item>Temporada 3</item>
+        <item>Temporada 4</item>
+    </string-array>
+
+    <!--Segunda Series-->
+    <string name="fechaInicio">Fecha Inicio</string>
+    <string name="Pais">Pais</string>
+    <string name="serienetwork">Servicio Canal</string>
+    <string name="Estado">Estado</string>
+    <string name="BusqueSerie">Escriba su serie</string>
+    <string name="Buscar">Buscar</string>
+</resources>
